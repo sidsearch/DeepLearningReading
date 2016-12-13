@@ -29,4 +29,15 @@ for example it takes x[i:i+n] and y[i:i+n] and performs an parameter update on t
 Challenges so far
 ------------------
 Vanilla mini batch GD does not guarrente convergence.
-1. Choosing proper learning rate can be difficult. small
+1. Choosing proper learning rate can be difficult. small learning rate indicates, slower convergence
+
+Momemtum
+--------
+SGD has trouble navigating ravines i.e where surfaces curve more steeply in one dimension compared to the other 
+In these case SGD oscillates across the slopes of the ravine while only making hesitant progress along the bottom towards the local optima
+
+Momemtum helps SGD accelerate in the right directions,
+
+Nestrov accelerated gradient 
+----------------------------
+	
