@@ -16,7 +16,11 @@ Describe the main approach & results. Just facts, no opinions yet.
    goals of RS is to select utterences which are good sentences as per the generative model p and are discriminative per f 
  -  RS(I, c_t, c_d) = arg max \lambda p(s|I, c_t) + (1-lambda) f(s,c_t,c_d)
  
-(2) Introspective Speker: (3) Emitter-Suppresor Beam Search for RNNs
+(2) Introspective Speker: (3) Emitter-Suppresor Beam Search for RNNs: This is the algorithm used for maximizer for ES beam search.
+* uses MLThis paper proposes method which uses a new method to get image captions using context
+1. Justification 
+2. Discriminative image captioning 
+
  
 (4) Experimental results: The proposed method achieves competitive performance on CIDEr-D and METEOR evaluation metrics.
 
