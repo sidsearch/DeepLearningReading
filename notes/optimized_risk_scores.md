@@ -19,4 +19,4 @@ P(i)  = Pr(y=1|x) = 1/1+exp(-<lambda,x>)
 In this setup lambda represents points for feature j. Given features x_i, users tally the points to get a risk score s_i = <lambda, x_i>
 
 
-
+,,,,,,,
