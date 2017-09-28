@@ -28,4 +28,7 @@ This is one of the best performing model for VQA task. Also this paper provides 
 
 Describe what you believe is your most insightful thought about the paper. It could be next research directions in this line of work, (directly or indirectly related) new ideas that this paper gave you, things that you would be curious to try, connections you've made to other work, etc.
 
-I think combining MCB with co attention or stacked attention model might lead even higher performance for vqa and vqa-cp tasks. In this paper authors present an idea about combining MCB with attention which leads to better performance. Also, I am interested to know if the performance will go down or not while using VGGNet image representation since this paper used Resnet image representation. It will also to be interesting to try the representation 
+I think combining MCB with co attention or stacked attention model might lead even higher performance for vqa and vqa-cp tasks. In this paper authors present an idea about combining MCB with attention which leads to better performance. Also, I am interested to know if the performance will go down or not while using VGGNet image representation since this paper used Resnet image representation. It will also to be interesting to try the representation.
+
+It will also be intersting to combine the representation learned from this with realtion network.
+ 
