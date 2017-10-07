@@ -26,3 +26,19 @@
 * A compositional Object-based Approach to Learning Physical Dynamics(https://arxiv.org/pdf/1612.00341.pdf)
 
 
+## GAN related papers
+Generating images with recurrent adversarial networks [arXiv]
+Generative Adversarial Networks [arXiv] [Code] [Code]
+Generative Adversarial Networks as Variational Training of Energy Based Models [arXiv]
+Generative Adversarial Networks with Inverse Transformation Unit [arXiv]
+Generative Adversarial Parallelization [arXiv] [Code]
+Generative Adversarial Residual Pairwise Networks for One Shot Learning [arXiv]
+Generative Adversarial Structured Networks [Paper]
+Generative Cooperative Net for Image Generation and Data Augmentation [arXiv]
+Generative Moment Matching Networks [arXiv] [Code]
+Generative Semantic Manipulation with Contrasting GAN [arXiv]
+Geometric GAN [arXiv]
+
+
+
+
