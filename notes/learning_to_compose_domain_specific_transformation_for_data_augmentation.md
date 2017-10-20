@@ -8,3 +8,7 @@
 * A generative model is trained D and G which produces TF sequence hT(1), hT(2).... hT(k).
 * finally a generative model is used to perform data augementation for an end discriminative model D(f) 
 
+# for generator:
+Mean field: each sequential TF is chosen independently, reducing the task to learning the  K sampling frequencies of the TFs
+Long short-term memory network (LSTM): the input to each cell is a one-hot vector of the previously sampled TF, and the output from each cell of the network is a sampling distribution for the next TF. Making state-based decisions is critical when TFs are lossy when applied together, or are non-commutative.
+
