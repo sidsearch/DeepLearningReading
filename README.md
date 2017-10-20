@@ -26,6 +26,10 @@
 ##
 * A compositional Object-based Approach to Learning Physical Dynamics(https://arxiv.org/pdf/1612.00341.pdf)
 
+##  Interpretable learning
+* Learning to Compose Domain-Specific Transformations for Data Augmentation
+
+
 
 ## GAN related papers
 *Generating images with recurrent adversarial networks [arXiv]
