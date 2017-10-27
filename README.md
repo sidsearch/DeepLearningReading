@@ -13,6 +13,10 @@
 * Rich feature hierarchies for accurate object detection and semantic segmentation(https://arxiv.org/abs/1311.2524)
 * 
 
+## conv net visualization
+* Deep Inside Convolutional Networks: Visualizing Image Classifiction Models and Saliency Maps
+
+
 ##Natural Language Processing
 
 
