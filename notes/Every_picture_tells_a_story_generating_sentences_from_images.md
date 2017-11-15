@@ -1,6 +1,7 @@
 Summary:
 What is this paper about?
-The authors present a system to automatically generate natural language descriptions from images that exploits both statistics gleaned from parsing large quantities of text data and recognition algorithms from computer vision. The system is very effective at producing relevant sentences for images.
+The authors present a system  that can compute a score linking an image to a sentence. This score is used for used to attach a descriptive
+sentence to a given image, or to obtain images that illustrate a given sentence.This score is obtained by comparing an estimate of meaning obtained from the image to the one from the sentence where the estimate comes from discriminative procedure learnt from data.
 
 What is the main contribution?
 This paper presents a system for generating natural language descriptions of images. It  detects objects, modifiers (adjectives), and spatial relationships(prepositions), in an image, smoothing these detections with respect to a statistical prior obtained from descriptive text. Then it uses the smoothed results as constraints for sentence generation.
