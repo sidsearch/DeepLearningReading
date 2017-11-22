@@ -25,10 +25,10 @@ They represent a sentence by computing similarity between sentence and triplets.
 Strengths:
 This paper is very well written and easy to understand.
 This work laid out some of the foundations for image captioning task which has been followed by many other papers in this area.
-I
+
 
 Weaknesses:
-1. The dataset size is small to capture good representation
+1. The dataset size is small to capture good representation.
 1. There has been many other works after this paper which improve upon this work such "show and tell neural caption generator". 
 2. It tries to use the solutions available to different subproblems related to image captioning to create solution, though it is not direct weakness in its own time.
 3. This model is also not really end to end but this weakness has been further addressed.
@@ -41,4 +41,4 @@ This is related to some of the early papers which we read in the beginning of co
 
 Most interesting thought:
 
-There are further challenges building end to end models which somewhat attacked in "DenseCap: Fully Convolutional Localization Networks for Dense Captioning". But it is not clear if these models fully understand picture or not. I think there needs to more work where the image captioning models are trained with less data to understand if these models are compositional or not in nature.
+This is one of the early paper for image captioning. There has been lot of improvement with deep learning models and new datasets. I think it is interesting to learn about the approach which was used before deep learning was used widespead in computer vision. There are further challenges building end to end models which somewhat attacked in "DenseCap: Fully Convolutional Localization Networks for Dense Captioning". But it is not clear if these models fully understand picture or not. I think there needs to more work where the image captioning models are trained with less data to understand if these models are compositional or not in nature.
