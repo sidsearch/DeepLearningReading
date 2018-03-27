@@ -50,5 +50,7 @@
 * Geometric GAN [arXiv]
 
 
-
+## RNN related papers
+* Bayesian Recurrent Neural Networks [https://arxiv.org/abs/1704.02798]
+* Quasi-Recurrent Neural Networks    [https://arxiv.org/abs/1611.01576][code](https://github.com/salesforce/pytorch-qrnn)
 
