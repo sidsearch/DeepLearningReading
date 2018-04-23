@@ -54,3 +54,5 @@
 * Bayesian Recurrent Neural Networks [https://arxiv.org/abs/1704.02798]
 * Quasi-Recurrent Neural Networks    [https://arxiv.org/abs/1611.01576][code](https://github.com/salesforce/pytorch-qrnn)
 
+## Interpretability realted papers
+* Interpretable and Pedagogical Examples [https://arxiv.org/pdf/1711.00694.pdf]
