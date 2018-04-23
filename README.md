@@ -1,7 +1,7 @@
 # Deep Learning Reading
 * Dynamic Routing Between Capsules(https://arxiv.org/abs/1710.0982)
 
-##Generative modelling
+## Generative modelling
 * Generative Adversarial Networks (https://arxiv.org/abs/1406.2661)
 * Generative Adversarial Text to Image Synthesis (https://arxiv.org/pdf/1605.05396.pdf)
 * Wasserstein GAN (https://arxiv.org/abs/1701.07875)
@@ -9,26 +9,24 @@
 * NIPS 2016 Tutorial: Generative Adversarial Networks (https://arxiv.org/abs/1701.00160)
 
 
-##Computer Vision
+## Computer Vision
 * Deep Residual Learning for Image Recognition(https://arxiv.org/abs/1512.03385) 
 * Rich feature hierarchies for accurate object detection and semantic segmentation(https://arxiv.org/abs/1311.2524)
-* 
+
 
 ## conv net visualization
 * Deep Inside Convolutional Networks: Visualizing Image Classifiction Models and Saliency Maps
 
 
-##Natural Language Processing
+## Natural Language Processing
 
 
 
 
-##Deep Reinforcement Learning
+## Deep Reinforcement Learning
 
 
 ## Visual question answering papers
-
-##
 * A compositional Object-based Approach to Learning Physical Dynamics(https://arxiv.org/pdf/1612.00341.pdf)
 
 ##  Interpretable learning
