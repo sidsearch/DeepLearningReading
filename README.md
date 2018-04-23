@@ -45,7 +45,7 @@
 * Generative Cooperative Net for Image Generation and Data Augmentation [arXiv]
 * Generative Moment Matching Networks [arXiv] [Code]
 * Generative Semantic Manipulation with Contrasting GAN [arXiv]
-* Geometric GAN [arXiv]
+* Geometric GAN [https://arxiv.org/abs/1705.02894][arXiv]
 
 
 ## RNN related papers
