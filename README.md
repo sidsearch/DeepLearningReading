@@ -56,3 +56,4 @@
 
 ## Interpretability realted papers
 * Interpretable and Pedagogical Examples [https://arxiv.org/pdf/1711.00694.pdf]
+* Understanding Black-box Predictions via Influence Functions [https://arxiv.org/abs/1703.04730]
