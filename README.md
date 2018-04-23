@@ -33,19 +33,18 @@
 * Learning to Compose Domain-Specific Transformations for Data Augmentation
 
 
-
-## GAN related papers
-* Generating images with recurrent adversarial networks [arXiv]
-* Generative Adversarial Networks [arXiv] [Code] [Code]
-* Generative Adversarial Networks as Variational Training of Energy Based Models [arXiv]
-* Generative Adversarial Networks with Inverse Transformation Unit [arXiv]
-* Generative Adversarial Parallelization [arXiv] [Code]
-* Generative Adversarial Residual Pairwise Networks for One Shot Learning [arXiv]
-* Generative Adversarial Structured Networks [Paper]
-* Generative Cooperative Net for Image Generation and Data Augmentation [arXiv]
-* Generative Moment Matching Networks [arXiv] [Code]
-* Generative Semantic Manipulation with Contrasting GAN [arXiv]
-* Geometric GAN [https://arxiv.org/abs/1705.02894][arXiv]
+# Generative Modeling
+## GAN Papers
+* Generative Adversarial Networks [Paper] (https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* Generative Adversarial Networks as Variational Training of Energy Based Models [arXiv](https://arxiv.org/abs/1611.01799)
+* Generative Adversarial Networks with Inverse Transformation Unit [arXiv](https://arxiv.org/abs/1709.09354)
+* Generative Adversarial Parallelization [arXiv] (https://arxiv.org/abs/1612.04021)
+* Generative Adversarial Residual Pairwise Networks for One Shot Learning [arXiv](https://arxiv.org/abs/1703.08033)
+* Generative Adversarial Structured Networks [Paper](https://pdfs.semanticscholar.org/8693/32e1c2802e9025de85d2cd1a9093b1e28f00.pdf)
+* Generative Cooperative Net for Image Generation and Data Augmentation [https://arxiv.org/abs/1705.02887]
+* Generative Moment Matching Networks [https://arxiv.org/abs/1502.02761]
+* Generative Semantic Manipulation with Contrasting GAN [https://arxiv.org/abs/1708.00315]
+* Geometric GAN [https://arxiv.org/abs/1705.02894]
 
 
 ## RNN related papers
