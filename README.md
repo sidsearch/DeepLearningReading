@@ -30,7 +30,7 @@
 * Wasserstein GAN (https://arxiv.org/abs/1701.07875)
 * Towards Principled Methods for Training Generative Adversarial Networks (https://arxiv.org/abs/1701.04862)
 * NIPS 2016 Tutorial: Generative Adversarial Networks (https://arxiv.org/abs/1701.00160)
-
+* Boltzmann Encoded Adversarial Machines (https://arxiv.org/pdf/1804.08682.pdf)
 
 ## GAN Papers
 * Generative Adversarial Networks [Paper] (https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
