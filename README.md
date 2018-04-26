@@ -44,6 +44,10 @@
 * Generative Semantic Manipulation with Contrasting GAN [https://arxiv.org/abs/1708.00315]
 * Geometric GAN [https://arxiv.org/abs/1705.02894]
 
+## Variational Autoencoder Papers
+* Auto-Encoding Variational Bayes (https://arxiv.org/abs/1312.6114)
+* Semi-supervised Learning with Deep Generative Models (https://arxiv.org/pdf/1406.5298.pdf)
+
 ## Autoregreesive Models
 * WaveNet: A Generative Model for Raw Audio [https://arxiv.org/abs/1609.03499]
 * Parallel WaveNet: Fast High-Fidelity Speech Synthesis [https://arxiv.org/abs/1711.10433]
