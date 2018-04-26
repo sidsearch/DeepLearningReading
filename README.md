@@ -2,6 +2,8 @@
 
 # General 
 * Dynamic Routing Between Capsules(https://arxiv.org/abs/1710.0982)
+* An Information-Theoretic View for Deep Learning. Jingwei Zhang, Tongliang Liu, and Dacheng Tao (http://arxiv.org/abs/1804.09060)
+
 
 ## Computer Vision
 * Deep Residual Learning for Image Recognition(https://arxiv.org/abs/1512.03385) 
@@ -12,7 +14,7 @@
 
 
 ## Natural Language Processing
-
+* Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models. Hendrik Strobelt, Sebastian Gehrmann, Michael Behrisch, Adam Perer, Hanspeter Pfister, and Alexander M. Rush(http://arxiv.org/abs/1804.09299)
 ## Deep Reinforcement Learning
 
 
