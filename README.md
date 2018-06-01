@@ -31,6 +31,7 @@
 * Towards Principled Methods for Training Generative Adversarial Networks (https://arxiv.org/abs/1701.04862)
 * NIPS 2016 Tutorial: Generative Adversarial Networks (https://arxiv.org/abs/1701.00160)
 * Boltzmann Encoded Adversarial Machines (https://arxiv.org/pdf/1804.08682.pdf)
+* Realistic Evaluation of Deep Semi-Supervised Learning Algorithms (https://arxiv.org/abs/1804.09170)
 
 ## GAN Papers
 * Generative Adversarial Networks [Paper] (https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
