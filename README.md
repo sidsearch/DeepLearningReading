@@ -47,6 +47,8 @@
 ## Variational Autoencoder Papers
 * Auto-Encoding Variational Bayes (https://arxiv.org/abs/1312.6114)
 * Semi-supervised Learning with Deep Generative Models (https://arxiv.org/pdf/1406.5298.pdf)
+* beta-VAE: Learning Basic visual concepts with constrained Varitional Framework(https://openreview.net/references/pdf?id=Sy2fzU9gl)
+* beta-TCVAE: ISOLATING SOURCES OF DISENTANGLEMENT IN VARIATIONAL AUTOENCODERS(https://openreview.net/pdf?id=BJdMRoCIf)
 
 ## Autoregreesive Models
 * WaveNet: A Generative Model for Raw Audio [https://arxiv.org/abs/1609.03499]
